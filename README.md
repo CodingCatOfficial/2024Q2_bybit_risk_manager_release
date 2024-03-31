@@ -13,7 +13,7 @@
 5. 設定維持保證金啟動閥值, 確認後點擊`開始風控`
 7. 若成功開始風控, cmd(黑色框框)將陸續跳出帳號維持保證金數據
 
-[下載、設定教學及使用說明影片]([https://youtu.be/mOMIfSv1ags](https://youtu.be/DR61Za1i0tg))
+[下載、設定教學及使用說明影片]([https://youtu.be/mOMIfSv1ags](https://youtu.be/DR61Za1i0tg)
 
 ## 注意事項
 1. 若IM超過100可能導致bybit不給減倉, 請自行增加保證金以讓IM降至100以下, 更多降IM方法詳至摳頂貓社團討論
